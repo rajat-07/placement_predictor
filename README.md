@@ -4,3 +4,21 @@ Our system maintain student's performance for academics, sports, technical and o
 login_page
 
 ![](images/login.PNG)
+
+profile_page_view_0
+
+![](images/profile_0.PNG)
+
+profile_page_view_1
+
+![](images/profile_1.PNG)
+
+home_page_view_0
+
+![](images/home_0.PNG)
+
+home_page_view_1
+
+![](images/home_1.PNG)
+
+
