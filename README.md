@@ -17,8 +17,12 @@ home_page_view_0
 
 ![](images/home_0.PNG)
 
-home_page_view_1
+home_page_view_2
 
-![](images/home_1.PNG)
+![](images/home_2.PNG)
+
+home_page_view_3
+
+![](images/home_3.PNG)
 
 
